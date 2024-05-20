@@ -1,0 +1,1 @@
+print(type("hello, world"))# list() = [] , dict() = {}
